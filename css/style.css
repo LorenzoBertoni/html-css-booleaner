@@ -75,3 +75,37 @@ table{
 .cella2{
     width: 50%;
 }
+
+#finale{
+    color: #5a5b5c;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.ad{
+    width: 311px;
+    height: 220px;
+   
+    
+
+}
+
+.n1{
+    background-image: url(../img/monitor.jpg);
+    background-size:auto;
+    background-repeat: no-repeat;
+    
+}
+
+.n2{
+    background-image: url(../img/graph.jpg);
+    background-size:auto;
+    background-repeat: no-repeat;
+}
+
+.testoad{
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 10%;    
+}
