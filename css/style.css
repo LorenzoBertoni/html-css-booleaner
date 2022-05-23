@@ -18,8 +18,9 @@ header{
 }
 
 #titolo{
-    font-size: 60px;
+    font-size: 55px;
     font-family: 'Roboto Slab', serif;
+    margin: 0;
 }
 
 
@@ -27,9 +28,50 @@ header{
     font-size: 20px;
     color: #979797;
     font-weight: bold;
+    font-style: italic;
+     
+}
+
+.data{
+    font-size: 20px;
+    color: #979797;
+    font-weight: bold;
+    font-style: italic;
+    
+    
 }
 
 .booleaner{
     color: #1E90FF;
+}
 
+.paragrafo{
+    font-size: 17px;
+    font-weight: bold;
+    font-style: ;
+}
+
+.evidenziato{
+    background-color: #eaee0b;
+}
+
+.tabella{
+    background-color: #1E90FF;
+}
+
+.tabella2{
+    background-color: #a6dffa;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.cella1{
+    width: 25%;
+}
+
+.cella2{
+    width: 50%;
 }
