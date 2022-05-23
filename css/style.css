@@ -1,0 +1,35 @@
+
+
+
+
+header{
+    background-image: url(../img/pattern.png);
+    background-color: #1E90FF;
+    height: 175px;    
+}
+
+
+#logo{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 50%;
+    left: 1%
+}
+
+#titolo{
+    font-size: 60px;
+    font-family: 'Roboto Slab', serif;
+}
+
+
+.autore{
+    font-size: 20px;
+    color: #979797;
+    font-weight: bold;
+}
+
+.booleaner{
+    color: #1E90FF;
+
+}
